@@ -5,8 +5,9 @@ Having a college degree seems to be something beneficial. This project explores 
 **Business Question**  
 Does having a college degree mobilize positive change in the circumstance of individuals with low income parents?  
 
-**Data Source**  
-The Opportunity Atlas:  
+**Data Source** 
+The Oppurtunity Atlas   
+https://www.opportunityatlas.org:  
 i. The Opportunity Atlas Based at Harvard University, this team of researchers and policy analysts work together to analyze new data and create a platform for local stakeholders to make more informed decisions.  
 
 **Data Analysis**   
