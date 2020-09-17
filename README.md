@@ -24,5 +24,15 @@ We’ll use Microsoft Excel to answer:
 - Los Angeles has larger economic inequality in individual income. Note that Baltimore City has areas where individual income is among the medium range.
 <img width="962" alt="Screen Shot 2020-09-17 at 15 11 32" src="https://user-images.githubusercontent.com/70663111/93516472-13716d80-f8f8-11ea-8301-1f74c33ef47f.png">.  
 - There are still individuals in Los Angeles that are not mobilized well enough that their individual income is too low for the lowest despite their chances of having a college degree is twice as those from the same socioeconomic class in Baltimore City. In Baltimore City, however, individuals have a higher rate of having higher individual income, and none of Baltimorians individual income is too low.  
+<img width="406" alt="image" src="https://user-images.githubusercontent.com/70663111/93516646-56334580-f8f8-11ea-8edf-505625563b37.png">.  
+
+**Recap**
+The initial question was assuming that there is a correlation between college graduation rate and individual income/ poverty rate for those whose parents have low income. Unfortunately, this data analysis failed to prove this seemingly “common-sense” assumption. Some additional data that might be helpful include comparing middle and lower income families in Baltimore and looking at the industries people work in. This is important because 1. college degrees’ effect can be undermined because of one’s original socio-economic class. 2. College degree is not the only way to mobilize. Blue-collar and people in business do not necessarily require college degrees.   
+
+**Manipulation in Excel**
+1. Use MEDIAN, AVERAGE, COUNTIF, algorithms to find median, average, low ourliers, high outliers, fraction of outliers for individual income of people in Baltimore City and Los Angeles.  
+2. Build Pivot Table of median and average income of the two cities and create histogram to compare them.  
+3. Build Pivot Table of individual income of each city and put them together to see outliers, genearl distribution.  
+4. Build Pivot Table of fraction of low, high, general outliers of Baltimore City and Los Angeles and create a historam comparing these two.
 
 
