@@ -18,7 +18,7 @@ We’ll use Microsoft Excel to answer:
 
 **Data Answer**  
 - Average individual income, low outliers, high outliers, fraction of each outlier, poverty rate, college degree rate. 
-
+<img width="1268" alt="Screen Shot 2020-09-17 at 15 06 51" src="https://user-images.githubusercontent.com/70663111/93515992-6bf43b00-f8f7-11ea-8ff5-d176be0fe239.png">
 - Los Angeles has a higher median and average income than Baltimore City. Understandable because Los Angeles has a higher state minimum salary and GDP in general. Both cities have a median income higher than average income because of outliers. 
 <img width="361" alt="image" src="https://user-images.githubusercontent.com/70663111/93515405-8b3e9880-f8f6-11ea-9210-0e66497b4b8a.png">
-- 
+- Los Angeles has larger economic inequality in individual income. Note that Baltimore City has areas where individual income is among the medium range.
