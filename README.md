@@ -22,6 +22,7 @@ We’ll use Microsoft Excel to answer:
 - Los Angeles has a higher median and average income than Baltimore City. Understandable because Los Angeles has a higher state minimum salary and GDP in general. Both cities have a median income higher than average income because of outliers. 
 <img width="361" alt="image" src="https://user-images.githubusercontent.com/70663111/93515405-8b3e9880-f8f6-11ea-9210-0e66497b4b8a.png">. 
 - Los Angeles has larger economic inequality in individual income. Note that Baltimore City has areas where individual income is among the medium range.
-<img width="962" alt="Screen Shot 2020-09-17 at 15 11 32" src="https://user-images.githubusercontent.com/70663111/93516472-13716d80-f8f8-11ea-8301-1f74c33ef47f.png">. 
+<img width="962" alt="Screen Shot 2020-09-17 at 15 11 32" src="https://user-images.githubusercontent.com/70663111/93516472-13716d80-f8f8-11ea-8301-1f74c33ef47f.png">.  
+- There are still individuals in Los Angeles that are not mobilized well enough that their individual income is too low for the lowest despite their chances of having a college degree is twice as those from the same socioeconomic class in Baltimore City. In Baltimore City, however, individuals have a higher rate of having higher individual income, and none of Baltimorians individual income is too low.  
 
 
